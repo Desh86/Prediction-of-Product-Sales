@@ -1,7 +1,6 @@
 # Prediction-of-Product-Sales
 - Author: Deshan Pillay
-## Project Overview
-## Load and Inspect Data
-## Clean Data
-## Exploratory Data Analysis
-## Explanatory Data Analysis
+## Business problem:
+- Predict the sales for food items which are sold at various stores.
+## Data:
+- 
